@@ -1,3 +1,4 @@
+![Profile Banner](Laboratory 3/Banner.png)
 # Hello!, I'm Shanaiah Cava
 ### UI/UX Designer
 
